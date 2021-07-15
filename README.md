@@ -11,7 +11,7 @@ Feel free to contribute to this project by submitting a pull request to be merge
 - during which episode the page was added to the Omnipedia site
 - whether it is the first page in the article revision history
 
-Links that are not to the first article revision should append /changes to the url so that the changes view comes up while viewing a webpage, i.e., 
+Links that are NOT to the first article revision should append /changes to the url so that the changes view comes up while viewing a webpage, i.e., 
 
 https://omnipedia.app/wiki/2049/10/01/Zhupao/changes
 
