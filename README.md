@@ -1,7 +1,7 @@
 # Neurocracy Dated Page Index
 This is a fan created index of pages related to the Neurocracy story, found at [omnipedia.app](http://omnipedia.app "omnipedia.app")
 
-Note that tthe intended way to experience Neurocracy is likely finding articles organically through hyperlinks, so using this index may compromise your experience with the site.
+Note that the intended way to experience Neurocracy is likely finding articles organically through hyperlinks, so using this index may compromise your experience with the site.
 
 Feel free to contribute to this project.
 
