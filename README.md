@@ -5,7 +5,7 @@ Note that the intended way to experience Neurocracy is likely finding articles o
 
 Feel free to contribute to this project by submitting a pull request to be merged into the main branch.
 
-#### Links are categorized by date of revision, and labeled with the following
+#### Links are categorized alphabetically by date of revision, and labeled with the following
 - during which episode the page was added to the Omnipedia site
 - whether it is the first page in the article revision history
 
