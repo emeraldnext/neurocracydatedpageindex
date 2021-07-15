@@ -9,6 +9,8 @@ Feel free to contribute to this project by submitting a pull request to be merge
 - during which episode the page was added to the Omnipedia site
 - whether it is the first page in the article revision history
 
+Please name pages based upon the naming schema shown either at the top of the article, or if absent, the URL. For example, the omnipedia landing page is labeled, "Main Page", in the URL.
+
 # Revision Indexes
 
 - [2049/09/28](indexes/20490928.md "2049/09/28")
