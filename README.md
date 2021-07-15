@@ -12,13 +12,10 @@ Feel free to contribute to this project.
 
 # Revision Indexes
 
-[2049/09/28](indexes/20490928.md "2049/09/28")
-
-[2049/09/29](indexes/20490929 "2049/09/29")
-
-[2049/09/30](indexes/20490930 "2049/09/30")
-
-[2049/10/01](20491001 "2049/10/01") - Setting of Episode 1
+-[2049/09/28](indexes/20490928.md "2049/09/28")
+-[2049/09/29](indexes/20490929 "2049/09/29")
+-[2049/09/30](indexes/20490930 "2049/09/30")
+-[2049/10/01](20491001 "2049/10/01") - Setting of Episode 1
 
 # License
 This work is marked with CC0 1.0 Universal. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
