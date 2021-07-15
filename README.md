@@ -1,7 +1,7 @@
 # Neurocracy Dated Page Index
 This is a fan created index of pages related to the Neurocracy story, found at [omnipedia.app](http://omnipedia.app "omnipedia.app")
 
-Note that the intended way to experience Neurocracy is likely finding articles organically through hyperlinks, so using this index may compromise your experience with the site.
+Note that the intended way to experience Neurocracy is likely finding articles organically through hyperlinks, so using this index may compromise your experience with the site and may constitute a spoiler.
 
 Tip: If you see an article is the first revision in Omnipedia, it can be more illuminative to see the changes in the next revision against the original page. For example, if the first revision in Omnipedia is on 09/29, it might be better to view the page (in changes mode) on 09/30 to see what edits have been made to piece together the story.
 
