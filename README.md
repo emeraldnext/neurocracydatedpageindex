@@ -3,11 +3,17 @@ This is a fan created index of pages related to the Neurocracy story, found at [
 
 Note that the intended way to experience Neurocracy is likely finding articles organically through hyperlinks, so using this index may compromise your experience with the site.
 
+#### Links are categorized alphabetically by date of revision, and labeled with the following
+
 Feel free to contribute to this project by submitting a pull request to be merged into the main branch.
 
 #### Links are categorized alphabetically by date of revision, and labeled with the following
 - during which episode the page was added to the Omnipedia site
 - whether it is the first page in the article revision history
+
+Links that are not to the first article revision should append /changes to the url so that the changes view comes up while viewing a webpage, i.e., 
+
+https://omnipedia.app/wiki/2049/10/01/Zhupao/changes
 
 Please name pages based upon the naming schema shown either at the top of the article, or if absent, the URL. For example, the omnipedia landing page is labeled, "Main Page", in the URL.
 
